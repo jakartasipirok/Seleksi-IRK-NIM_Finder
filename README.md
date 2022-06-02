@@ -34,7 +34,7 @@ Note: <i>Sebelum mengerjakan bonus, pastikan Anda sudah memenuhi spesifikasi waj
 
 1. Buatlah sebuah repository <strong>private</strong> pada [github](https://github.com) Anda dan undanglah `hokkyss` ke dalam repository tersebut.
 2. Buatlah issue di dalam repository ini untuk bertanya
-3. Untuk pengumpulan, bisa isi [form](https://forms.gle/H1DHbotY2BE3chpE8)
+3. Untuk pengumpulan, bisa isi [form ini](https://forms.gle/H1DHbotY2BE3chpE8), lalu hubungi line `@hokkyss` untuk menjadwalkan demo
 
 ## Credit
 
