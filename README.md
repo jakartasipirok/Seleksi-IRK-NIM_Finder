@@ -1,6 +1,6 @@
 # Seleksi-IRK-NIM_Finder
 
-Versi <strong><i>26 Mei 2022</i></strong>
+Versi <strong><i><mark>2 Juni 2022</mark></i></strong>
 
 ## Latar Belakang
 
@@ -11,13 +11,20 @@ Apakah Anda pernah mendengar maupun menggunakan NIM Finder? Ada beberapa NIM Fin
 NIM Finder dibuat <strong>berbasis web</strong>. Bahasa dan Framework dibebaskan. Perhatikan bahwa UIUX juga memengaruhi penilaian. NIM Finder Anda harus mengandung beberapa fitur pencarian di bawah ini:
 
 1. (400 poin) Pencarian berdasarkan NIM<br />
-   Contoh kasus: - Memasukkan NIM `13519` akan memunculkan semua mahasiswa yang NIM nya <strong>mengandung</strong> `13519`. - Memasukkan NIM `101` akan memunculkan semua mahasiswa yang NIM nya mengandung `101`, baik di awal, tengah, maupun akhir.
+   Contoh kasus:
+   - Memasukkan NIM `13519` akan memunculkan semua mahasiswa yang NIM nya <strong>mengandung</strong> `13519`.
+   - Memasukkan NIM `101` akan memunculkan semua mahasiswa yang NIM nya mengandung `101`, baik di awal, tengah, maupun akhir.
 2. (400 poin) Pencarian berdasarkan jurusan (atau fakultas) dan angkatan<br />
-   Contoh kasus: - Memasukkan `IF 19` atau `Informatika 19` akan memunculkan semua mahasiswa Teknik Informatika ITB Angkatan 2019. - Memasukkan `Informatika` saja akan memunculkan semua mahasiswa Teknik Informatika.
+   Contoh kasus: 
+   - Memasukkan `IF 19` atau `Informatika 19` akan memunculkan semua mahasiswa Teknik Informatika ITB Angkatan 2019. 
+   - - Memasukkan `Informatika` saja akan memunculkan semua mahasiswa Teknik Informatika.
 3. (400 poin) Pencarian berdasarkan nama<br />
-   Contoh kasus: - Memasukkan `Hok` akan memunculkan semua mahasiswa yang namanya mengandung `hok` - Memasukkan `Fis` akan memprioritaskan pencarian berdasarkan jurusan Fisika pada FMIPA.
+   Contoh kasus: 
+   - Memasukkan `Hok` akan memunculkan semua mahasiswa yang namanya mengandung `hok` 
+   - Memasukkan `Fis` akan memprioritaskan pencarian berdasarkan jurusan Fisika pada FMIPA (dan tidak mencari berdasarkan nama).
 4. (600 poin) Mengkombinasikan dan menggabungkan ketiga fitur pencarian di atas.<br />
-   Contoh kasus: - Salah satu hasil untuk query `Tito IF 19` atau `IF 19 Tito` adalah `Muhammad Tito Prakasa`
+   Contoh kasus: 
+   - Salah satu hasil untuk query `Tito IF 19` atau `IF 19 Tito` adalah `Muhammad Tito Prakasa`
 5. (200 poin) UIUX
 6. Hasil query setidaknya harus mengandung nama lengkap, 2 buah NIM, dan program studi. Apabilabelum memiliki program studi, data yang ditampilkan adalah NIM seadanya dan fakultas saja.
 7. Untuk kenyamanan bersama, pencarian tidaklah case sensitive
